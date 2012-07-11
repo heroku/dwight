@@ -1,0 +1,14 @@
+{application, dwight,
+ [{description, ""}
+  ,{vsn, "1"}
+  ,{registered, []}
+  ,{applications,
+    [kernel
+     ,stdlib
+     ,dwight_core
+     ,dwight_routes
+    ]}
+  ,{env,
+    [
+    ]}
+ ]}.
