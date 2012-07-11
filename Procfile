@@ -1,0 +1,1 @@
+dwight: erl -env ERL_LIBS deps:lib -s dwight_app -boot start_sasl -config config/sys

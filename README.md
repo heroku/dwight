@@ -1,3 +1,8 @@
+### Quickstart
+
+    rebar get-deps compile
+    foreman start dwight
+
 ### Running Dependencies
 
 Application |                        Version 
